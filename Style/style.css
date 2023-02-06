@@ -40,6 +40,7 @@ header{
     min-height: 150px;
     text-align: center;
     padding-top: 20px;
+    padding-bottom: 5px;
 }
 
 header h1{
@@ -128,7 +129,8 @@ main img{
 main img.pequeno{
     max-width: 350px;
     display: block;
-    width: 50%;
+    margin: 0 auto;
+    width: 60%;
 }
 
 main strong{
