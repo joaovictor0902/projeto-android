@@ -57,7 +57,8 @@ header p{
     max-width: 600px;
     padding-left: 10px;
     padding-right: 10px;
-    margin: auto;
+    padding-bottom: 30px;
+    margin: 0 auto;
 }
 
 nav{
